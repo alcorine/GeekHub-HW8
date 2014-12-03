@@ -94,17 +94,18 @@ body {
     border-color: #03a5fd transparent transparent transparent;
 }
 .categories-item {
-    font: 14px arial sans-serif;
-    color: #545454;
     line-height: 2;
 }
 .categories-list {
+
     border-bottom: 1px solid #808080;
     list-style-position: inside;
     list-style-image: url("../img/li-style.png");
 }
 .categories-list a {
     text-decoration: none;
+    font: 14px arial sans-serif;
+    color: #545454;
 }
 
 .content {
